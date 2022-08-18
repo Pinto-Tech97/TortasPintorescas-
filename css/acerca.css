@@ -1,0 +1,22 @@
+p{
+  width: 70%;
+  text-align: justify;
+  margin-left: 150px;
+}
+.img_colect{
+  display: flex;
+  flex-wrap: wrap;
+
+}
+.img_colect img{
+  width: 400px;
+  height: 400px;
+  margin-left: 100px;
+  margin-top: 50px;
+  transition: 0.5s ease-in-out;
+}
+
+/*.img_colect img:hover{
+  width: 450px;
+  height: 450px;
+}*/ 

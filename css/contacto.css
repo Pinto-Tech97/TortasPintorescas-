@@ -1,0 +1,15 @@
+.Contact{
+  width: 80%;
+  height: 150px;
+  box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.7);
+  border-radius: 10px;
+  margin-top: 50px;
+  margin-left: 150px;
+}
+.Contact img{
+  width: 100px;
+  height: 100px;
+  margin-right: 100px;
+  transition: 0.5s ease-in-out;
+}
+
